@@ -1,8 +1,9 @@
-<AssetMetadata version="0" type="Level" guid="90f6f9d4-0804-283c-02dc-2d438ba572bd" source="" timestamp="1714104975">
+<AssetMetadata version="0" type="Level" guid="90f6f9d4-0804-283c-02dc-2d438ba572bd" source="" timestamp="1714859646">
  <Files>
   <File path="example/example.level"/>
  </Files>
  <Dependencies>
+  <Path>%editor%/materials/crydesigner_selection.mtl</Path>
   <Path>%editor%/objects/envcube.cgf</Path>
   <Path>%editor%/objects/envcube.mtl</Path>
   <Path>%engine%/engineassets/icons/averagememoryusage.dds</Path>
@@ -22,6 +23,7 @@
   <Path>%engine%/engineassets/objects/primitive_sphere.cgf</Path>
   <Path>%engine%/engineassets/texturemsg/defaultnouvs.dds</Path>
   <Path>%engine%/engineassets/texturemsg/defaultsolids.mtl</Path>
+  <Path>%engine%/engineassets/texturemsg/orange_for_designer.dds</Path>
   <Path>%engine%/engineassets/textures/skys/night/half_moon.dds</Path>
   <Path>%engine%/engineassets/textures/white.dds</Path>
   <Path>animations/mannequin/adb/firstpersoncontrollerdefinition.xml</Path>
